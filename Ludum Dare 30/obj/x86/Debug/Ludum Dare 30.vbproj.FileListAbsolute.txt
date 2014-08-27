@@ -1,0 +1,8 @@
+C:\Users\Daniel\Dropbox\Projects\Ludum Dare 30\Ludum Dare 30\bin\Debug\Ludum Dare 30.exe
+C:\Users\Daniel\Dropbox\Projects\Ludum Dare 30\Ludum Dare 30\bin\Debug\Ludum Dare 30.pdb
+C:\Users\Daniel\Dropbox\Projects\Ludum Dare 30\Ludum Dare 30\bin\Debug\Ludum Dare 30.xml
+C:\Users\Daniel\Dropbox\Projects\Ludum Dare 30\Ludum Dare 30\obj\x86\Debug\Ludum_Dare_30.Resources.resources
+C:\Users\Daniel\Dropbox\Projects\Ludum Dare 30\Ludum Dare 30\obj\x86\Debug\Ludum Dare 30.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Dropbox\Projects\Ludum Dare 30\Ludum Dare 30\obj\x86\Debug\Ludum Dare 30.exe
+C:\Users\Daniel\Dropbox\Projects\Ludum Dare 30\Ludum Dare 30\obj\x86\Debug\Ludum Dare 30.xml
+C:\Users\Daniel\Dropbox\Projects\Ludum Dare 30\Ludum Dare 30\obj\x86\Debug\Ludum Dare 30.pdb
