@@ -459,7 +459,7 @@ Public Class Game
                 Else
                     colControlBuffer.Add("")
                 End If
-                If Timer.ElapsedMilliseconds > 0 Then
+                If Timer.ElapsedMilliseconds > 1300 Then
                     If colControlBuffer(0) = "left" Or colControlBuffer(0) = "downleft" Or colControlBuffer(0) = "upleft" Then
                         Rover.vecPosition.X -= 2S
                         Rover.SetPositionX(Convert.ToInt32(Rover.vecPosition.X))
