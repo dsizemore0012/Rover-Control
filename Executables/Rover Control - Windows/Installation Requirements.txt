@@ -1,0 +1,5 @@
+.Net framework and XNA runtime need to be installed to run this game.
+
+http://www.microsoft.com/net
+
+www.microsoft.com/en-us/download/details.aspx?id=20914
