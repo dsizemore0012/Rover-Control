@@ -1,0 +1,8 @@
+C:\Users\Daniel\Dropbox\Projects\Rover-Control\Ludum Dare 30\bin\Release\Ludum Dare 30.exe
+C:\Users\Daniel\Dropbox\Projects\Rover-Control\Ludum Dare 30\bin\Release\Ludum Dare 30.pdb
+C:\Users\Daniel\Dropbox\Projects\Rover-Control\Ludum Dare 30\bin\Release\Ludum Dare 30.xml
+C:\Users\Daniel\Dropbox\Projects\Rover-Control\Ludum Dare 30\obj\x86\Release\Ludum_Dare_30.Resources.resources
+C:\Users\Daniel\Dropbox\Projects\Rover-Control\Ludum Dare 30\obj\x86\Release\Ludum Dare 30.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Dropbox\Projects\Rover-Control\Ludum Dare 30\obj\x86\Release\Ludum Dare 30.exe
+C:\Users\Daniel\Dropbox\Projects\Rover-Control\Ludum Dare 30\obj\x86\Release\Ludum Dare 30.xml
+C:\Users\Daniel\Dropbox\Projects\Rover-Control\Ludum Dare 30\obj\x86\Release\Ludum Dare 30.pdb
